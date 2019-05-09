@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Sansa Stark",
+    "image": "assets/images/Sansa.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jon Snow",
+    "image": "assets/images/Jonsnow.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Daenerys Targaryen",
+    "image": "assets/images/DaenerysTargaryenGoT.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Arya Stark",
+    "image": "assets/images/Arya.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bryan Stark",
+    "image": "assets/images/BranStark.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Theon",
+    "image": "assets/images/Theon.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Joffrey Lannister",
+    "image": "assets/images/Joffrey.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jamie Lannister",
+    "image": "assets/images/Jamie.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tyrion Lannister",
+    "image": "assets/images/Tyrion.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Missandei",
+    "image": "assets/images/Missandeu.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Thor",
+    "image": "assets/images/thor.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Brienne",
+    "image": "assets/images/Brienne.jpg"
+  }
+]
